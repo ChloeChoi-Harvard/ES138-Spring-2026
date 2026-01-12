@@ -1,1 +1,1 @@
-
+![Preview](ThreeProngCirclePacking.png)

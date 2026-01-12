@@ -1,1 +1,1 @@
-
+![Preview](WeightedGrid.png)
